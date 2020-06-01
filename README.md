@@ -1,7 +1,7 @@
 # TextEncodeChanger
 change text encode .h
 
-### Support charset
+### Support charset(IN/OUT)
 SHIFT_JIS: 932<br>
 UTF16_LE:  1200<br>
 UTF16_BE:  1201<br>
